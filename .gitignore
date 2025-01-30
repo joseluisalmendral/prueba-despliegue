@@ -1,0 +1,23 @@
+# Dependencias
+node_modules/
+yarn.lock
+package-lock.json
+
+# Archivos de construcción
+dist/
+
+# Archivos de configuración del entorno
+.env
+.env.local
+.env.*.local
+
+# Archivos de Vite
+.vite/
+
+# Archivos del editor
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
